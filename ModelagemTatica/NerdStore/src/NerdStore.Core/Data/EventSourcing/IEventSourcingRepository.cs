@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using NerdStore.Core.Messagens;
-using NerdStore.Core.Messages;
+﻿using NerdStore.Core.Messagens;
 
 namespace NerdStore.Core.Data.EventSourcing
 {
