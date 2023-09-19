@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4tu1wAisu50LD8kfAPBDHFmqfFOdEgROWe7KfpUUzZpjTFxUelHRHcaSlV3jdgFKlehs0GWfw2egid4gYLazXA==",
+  "success": true,
+  "projectFilePath": "D:\\Git_Repositorios\\DesenvolvedorIo_AspNetCore_EnterpriseApplications\\ModelagemTatica\\NerdStore\\src\\NerdStore.Catalago.Domain\\NerdStore.Catalago.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
